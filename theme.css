@@ -25,10 +25,10 @@
         --bg-overlay-app-frame: transparent;
     }
     .theme-light body {
-        background-image: var(--Flashcord-CBM_Light-Image, url("https://imgur.com/XixEQi6") ) !important;
+        background-image: var(--Flashcord-CBM_Light-Image, url("https://i.imgur.com/XixEQi6.jpg") ) !important;
     }
     .theme-dark body {
-        background-image: var(--Flashcord-CBM_Dark-Image, url("https://imgur.com/XixEQi6") ) !important;
+        background-image: var(--Flashcord-CBM_Dark-Image, url("https://i.imgur.com/XixEQi6.jpg") ) !important;
     }
     [class^="layer_"]:nth-child(2) {
         border: 1px solid white;
