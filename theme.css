@@ -31,7 +31,7 @@
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
   --font: Noto Sans;
-  --window-padding: 20px;
+  --window-padding: 0px;
   --window-roundness: 10px;
   --update-notice-1: none;
 }
